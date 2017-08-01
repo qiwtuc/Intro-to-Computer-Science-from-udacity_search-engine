@@ -1,0 +1,1 @@
+Dies ist eine Suchmaschine aus dem Kurs CS101 der Udacity.
